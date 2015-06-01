@@ -1,4 +1,4 @@
-FROM gulp-bower:node-0.10.38
+FROM devecoop/gulp-bower:node-0.10.38
 
 MAINTAINER Germán Podestá <german.podesta@devecoop.com>
 

@@ -1,4 +1,4 @@
-FROM gulp-bower:node-0.10.38-compass
+FROM devecoop/gulp-bower:node-0.10.38-compass
 
 MAINTAINER Germán Podestá <german.podesta@devecoop.com>
 
